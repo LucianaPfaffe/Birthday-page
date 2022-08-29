@@ -292,7 +292,20 @@ h3{
   .tarjeta .grid-container4 .container .paso12:hover{
     transform: rotateY(180deg); }
 
-
+footer{
+    background-color: #c2c5cc7a;
+    height: 100px;
+}
+footer p {
+    font-size: 1.5rem;
+    color: rgba(0, 0, 0, 0.451);
+   padding-top: 6rem;
+}
+footer p  span{
+    
+    color: rgba(23, 199, 199, 0.451);
+    text-shadow: 0 0 1px  black;
+}
 
 
    

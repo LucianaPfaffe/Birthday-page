@@ -155,6 +155,9 @@ h3{
 .grid-container2{
     display: flex;
 }
+.grid-container4{
+    display: flex;
+}
 
 .tarjeta .grid-container2 .container .paso4, .tarjeta .grid-container2 .container .paso5, .tarjeta .grid-container2 .container .paso6, .tarjeta .grid-container2 .container .paso7 {
     margin: 50px auto;
@@ -276,7 +279,7 @@ h3{
 }
 .tarjeta .grid-container4 .container .paso12 p {
     font-size: 2rem;
-    margin-top: 9rem;
+    margin-top: 2rem;
     color: black;
     text-shadow: 0 0 4px  rgb(235, 152, 36);
     font-weight: 400; 
@@ -305,6 +308,11 @@ footer p  span{
     
     color: rgba(23, 199, 199, 0.451);
     text-shadow: 0 0 1px  black;
+}
+
+.jose{
+    width: 250px;
+    height: 250px;
 }
 
 

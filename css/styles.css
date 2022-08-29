@@ -15,7 +15,7 @@ html{
 
 body{
     font-family: 'Anton', sans-serif;
-    background-color: #fcfefc;
+    background-color: #eddfbc;
 }
 .background{
     width: 100%;
@@ -95,7 +95,7 @@ h3{
       position: relative;
       transform-style: preserve-3d;
       box-shadow: 4px 4px 4px #c2c5cc;
-      background: #ffffff;
+      background: #e7cb86;
       border-radius: 1rem; }
      
       .tarjeta .grid-container .container .paso1 img, .tarjeta .grid-container .container .paso2 img, .tarjeta .grid-container .container .paso3 img  .tarjeta .grid-container .container .paso4 img, .tarjeta .grid-container .container .extra img{
@@ -163,7 +163,7 @@ h3{
     position: relative;
     transform-style: preserve-3d;
     box-shadow: 4px 4px 4px #c2c5cc;
-    background: #ffffff;
+    background: #e7cb86;
     border-radius: 1rem;
 }
 .tarjeta .grid-container2 .container .paso4 img, .tarjeta .grid-container2 .container .paso5 img, .tarjeta .grid-container2 .container .paso6 img, .tarjeta .grid-container2 .container .paso7 img{
@@ -218,7 +218,7 @@ h3{
     position: relative;
     transform-style: preserve-3d;
     box-shadow: 4px 4px 4px #c2c5cc;
-    background: #ffffff;
+    background: #e7cb86;
     border-radius: 1rem;
 }
 .tarjeta .grid-container3 .container .paso8 img, .tarjeta .grid-container3 .container .paso9 img, .tarjeta .grid-container3 .container .paso10 img, .tarjeta .grid-container3 .container .paso11 img{
@@ -268,7 +268,7 @@ h3{
     position: relative;
     transform-style: preserve-3d;
     box-shadow: 4px 4px 4px #c2c5cc;
-    background: #ffffff;
+    background: #e7cb86;
     border-radius: 1rem;
 }
 .tarjeta .grid-container4 .container .paso12 img{
